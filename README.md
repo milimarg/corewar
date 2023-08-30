@@ -1,6 +1,6 @@
 # corewar
 
-Epitech project where you create programs, called champions, that fight. The project is split in 2 parts: an assembler and a virtual machine to run an arena, where programs fight.
+First year Epitech project where you create programs, called champions, that fight. The project is split in 2 parts: an assembler and a virtual machine to run an arena, where programs fight.
 
 ## Compilation
 
